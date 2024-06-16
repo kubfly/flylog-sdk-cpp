@@ -1,2 +1,2 @@
-# flylog-sdk-cpp
-FlyLog SDK for C++
+# FlyLog SDK for C++
+Provides C++ API for application development with FlyLog framework.
